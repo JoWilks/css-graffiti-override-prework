@@ -6,10 +6,10 @@
   display: none;
 }
 
-#wall > div {
+#wall + div {
   display: none;
 }
 
-#wall + div {
+wall {
   display: none;
 }
