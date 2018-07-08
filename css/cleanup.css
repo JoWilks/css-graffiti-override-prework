@@ -11,7 +11,7 @@
 }
 
 
-.parent #tag-4 {
+.parent > div {
   display: none;
 }
 
