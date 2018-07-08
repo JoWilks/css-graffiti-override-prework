@@ -6,6 +6,6 @@
   display: none;
 }
 
-#wall [class="slick wicked"] {
+#wall ~ div {
   display: none;
 }
