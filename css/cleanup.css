@@ -1,2 +1,4 @@
 /* write your override styles here */
-
+some selector {
+  display: none;
+}
